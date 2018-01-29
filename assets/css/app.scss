@@ -2,5 +2,27 @@
 
 @import "bootstrap";
 
-.side { padding: 4ex; text-align: center; }
+
 h1 { text-align: center; }
+
+.tile {
+   height: 125px;
+   width: 125px;
+   padding: 20px;
+   border: 5px solid gray;  
+   text-align: center;
+   
+}
+
+table.main {
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.demo {
+  text-align: center;
+
+}
+
+
+
